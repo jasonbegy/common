@@ -15,9 +15,9 @@
       "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop.md"
     },
     {
-      "title": "Lab 1: Provision an Instance",
+      "title": "Test 1: Mucking About",
       "description": "Labs that follow the introduction are numbered, starting with Lab 1",
-      "filename": "../../provision/provision.md"
+      "filename": "../../test1/test1.md"
     },
     {
       "title": "Lab 2: Setup the Environment",
