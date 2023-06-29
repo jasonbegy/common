@@ -1,8 +1,8 @@
-# Title of the Lab
+# Test 1: Mucking About
 
 ## Introduction
 
-*Describe the lab in one or two sentences, for example:* This lab walks you through the steps to ...
+In this lab, we will muck about.
 
 Estimated Lab Time: -- minutes
 
