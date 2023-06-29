@@ -1,5 +1,5 @@
 {
-  "workshoptitle": "TEST1",
+  "workshoptitle": "TEST2",
   "help": "jason.begy@oracle.com",
   "variables": ["../../variables/variables.json",
     "../../variables/variables-in-another-file.json"],
