@@ -2,6 +2,8 @@
 
 ## Introduction - TEST 3
 
+[TZ Data Video](videohub:1_oshhvfcf)
+
 *Describe the lab in one or two sentences, for example:* This lab walks you through the steps to ...
 
 Estimated Lab Time: -- minutes
